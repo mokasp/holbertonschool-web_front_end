@@ -2,7 +2,7 @@
 /*# sourceMappingURL=normalize.min.css.map */
 
 * {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 html {
