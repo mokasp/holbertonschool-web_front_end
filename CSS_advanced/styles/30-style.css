@@ -355,6 +355,12 @@ ul .row {
     position: relative;
 }
 
+.card-title:link, .card-work:link {
+    display: block;
+    text-decoration: none;
+    padding-top: 45%;
+}
+
 .card-work:hover .card-title {
     opacity: 1;
 }
