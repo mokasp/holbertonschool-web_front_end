@@ -257,7 +257,7 @@ ul .row {
 .card-testimonial .card-avatar cite {
     display: block;
     padding: 1rem;
-    color: var(--color-primary);
+    color: #d73953;
 }
 
 .button {
