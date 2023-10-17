@@ -248,7 +248,7 @@ ul .row {
     text-align: center;
 }
 
-.card-avatar .card-testimonial {
+.card-testimonial .card-avatar {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
@@ -256,7 +256,7 @@ ul .row {
 
 .card-testimonial .card-avatar cite {
     display: block;
-    padding-top: 1rem;
+    padding: 1rem;
     color: var(--color-primary);
 }
 
