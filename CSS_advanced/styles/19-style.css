@@ -180,11 +180,11 @@ ul .row {
 .col-1-2 {
     width: 0.5em;
     float: left;
-    padding: 0.5rem;
+    padding: .5rem;
 }
 
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
