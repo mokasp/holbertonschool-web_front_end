@@ -194,6 +194,8 @@ ul .row {
 }
 
 .row::after {
+    grid-row: auto;
+    content: none;
     display: table;
     clear: both;
 }
